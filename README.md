@@ -1,3 +1,5 @@
+### [All Wiki Pages](https://github.com/vladrunk/howTo/wiki)
+***
 ### [Deploy telegram bot to Heroku from site](https://github.com/vladrunk/howDeployHeroku/wiki/Deploy-python-bot-to-heroku)   
 * [**Before you start**](https://github.com/vladrunk/howTo/wiki/Deploy-python-bot-to-heroku#before-you-start)
     *  [File contents](https://github.com/vladrunk/howTo/wiki/Deploy-python-bot-to-heroku#file-contents)
